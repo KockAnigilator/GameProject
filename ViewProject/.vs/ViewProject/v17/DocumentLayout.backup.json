@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ViewProject\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\viewproject\\library\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\documents\\github\\gameproject\\viewproject\\library\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|solutionrelative:library\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\viewproject\\library\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\library\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|solutionrelative:library\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\viewproject\\library\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\library\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|solutionrelative:library\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8390757-7878-456E-B16F-F47EA00B5B40}|Main\\Main.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\viewproject\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8390757-7878-456E-B16F-F47EA00B5B40}|Main\\Main.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8390757-7878-456E-B16F-F47EA00B5B40}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{494A4BAB-EBD9-4A0B-9C84-81AA81EFE6AB}|View\\View.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ViewProject\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{494A4BAB-EBD9-4A0B-9C84-81AA81EFE6AB}|View\\View.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{494A4BAB-EBD9-4A0B-9C84-81AA81EFE6AB}|View\\View.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ViewProject\\Library\\Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\Library\\Enemy.cs",
               "RelativeDocumentMoniker": "Library\\Enemy.cs",
-              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ViewProject\\Library\\Enemy.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\Library\\Enemy.cs",
               "RelativeToolTip": "Library\\Enemy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,23 +49,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Character.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ViewProject\\Library\\Character.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\Library\\Character.cs",
               "RelativeDocumentMoniker": "Library\\Character.cs",
-              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ViewProject\\Library\\Character.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\Library\\Character.cs",
               "RelativeToolTip": "Library\\Character.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T09:59:10.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T09:59:10.182Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ViewProject\\View\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\View\\Form1.cs",
               "RelativeDocumentMoniker": "View\\Form1.cs",
               "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ViewProject\\View\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "View\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\ViewProject\\View\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T14:55:32.952Z"
             },
@@ -73,27 +72,25 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ViewProject\\Main\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\Main\\Program.cs",
               "RelativeDocumentMoniker": "Main\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ViewProject\\Main\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\Main\\Program.cs",
               "RelativeToolTip": "Main\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:44:25.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T14:44:25.43Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ViewProject\\Library\\Entity.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\Library\\Entity.cs",
               "RelativeDocumentMoniker": "Library\\Entity.cs",
-              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\ViewProject\\Library\\Entity.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\Library\\Entity.cs",
               "RelativeToolTip": "Library\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:43:49.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T14:43:49.524Z"
             }
           ]
         }

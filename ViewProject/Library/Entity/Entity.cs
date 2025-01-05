@@ -41,5 +41,6 @@ namespace Library
         //Действия игрогов/противников
         public abstract void PerformAction(Entity target);
 
+
     }
 }
