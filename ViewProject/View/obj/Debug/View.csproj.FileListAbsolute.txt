@@ -1,0 +1,9 @@
+C:\Users\Дмитрий\source\repos\ViewProject\View\bin\Debug\View.exe.config
+C:\Users\Дмитрий\source\repos\ViewProject\View\bin\Debug\View.exe
+C:\Users\Дмитрий\source\repos\ViewProject\View\bin\Debug\View.pdb
+C:\Users\Дмитрий\source\repos\ViewProject\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\ViewProject\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\ViewProject\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\ViewProject\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\ViewProject\View\obj\Debug\View.exe
+C:\Users\Дмитрий\source\repos\ViewProject\View\obj\Debug\View.pdb

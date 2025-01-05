@@ -1,0 +1,6 @@
+C:\Users\Дмитрий\source\repos\ViewProject\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\ViewProject\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\ViewProject\Library\bin\Debug\Library.dll
+C:\Users\Дмитрий\source\repos\ViewProject\Library\bin\Debug\Library.pdb
+C:\Users\Дмитрий\source\repos\ViewProject\Library\obj\Debug\Library.dll
+C:\Users\Дмитрий\source\repos\ViewProject\Library\obj\Debug\Library.pdb

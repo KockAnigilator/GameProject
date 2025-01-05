@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\source\repos\ViewProject\Main\bin\Debug\Main.exe.config
+C:\Users\Дмитрий\source\repos\ViewProject\Main\bin\Debug\Main.exe
+C:\Users\Дмитрий\source\repos\ViewProject\Main\bin\Debug\Main.pdb
+C:\Users\Дмитрий\source\repos\ViewProject\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\ViewProject\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\ViewProject\Main\obj\Debug\Main.exe
+C:\Users\Дмитрий\source\repos\ViewProject\Main\obj\Debug\Main.pdb
