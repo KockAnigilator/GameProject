@@ -21,6 +21,8 @@ namespace Library
         public int Health { get => health; set => health = value; }
         public int Defense { get => defense; set => defense = value; }
         public int Attack { get => attack; set => attack = value; }
+        public int Luck { get; internal set; }
+        public int Strength { get; internal set; }
 
         public Entity(string name, int health, int defense, int attack)
         {

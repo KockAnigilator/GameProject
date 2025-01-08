@@ -46,6 +46,7 @@
     <Compile Include="Entity\Entity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Игровые механики\BattleSystem.cs" />
+    <Compile Include="Игровые механики\GameHelper.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

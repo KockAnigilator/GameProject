@@ -25,11 +25,33 @@ namespace Library.Игровые_механики
             return Math.Max(0, baseDamage - target.Defense);
         }
 
-        public static void PerformAttack(Character attacker, Entity target)
+        public static void PerformAttack(Entity attacker, Entity defender)
         {
-            int damage = CalculateDamage(attacker, target);
-            target.TakeDamage(damage);
-            Console.WriteLine($"{attacker.Name} атакует {target.Name} и наносит {damage} урона!");
+            Random rng = new Random();
+            int baseDamage = attacker.Attack + attacker.Strength / 2; // Урон на основе атаки и силы
+            int criticalChance = rng.Next(100); // Критический шанс
+
+            // Проверка на критический удар
+            if (criticalChance < attacker.Luck)
+            {
+                baseDamage *= 2;
+                Console.WriteLine($"{attacker.Name} наносит КРИТИЧЕСКИЙ удар!");
+            }
+
+            // Вычисление финального урона с учетом защиты
+            int damage = Math.Max(0, baseDamage - defender.Defense);
+
+            // Применение урона
+            defender.TakeDamage(damage);
+
+            // Вывод результата атаки
+            Console.WriteLine($"{attacker.Name} атакует {defender.Name} и наносит {damage} урона!");
+            if (defender.Health <= 0)
+            {
+                Console.WriteLine($"{defender.Name} побежден!");
+            }
         }
+
+
     }
 }
