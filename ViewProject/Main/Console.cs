@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace Main
 {
-    internal class Program
+    internal class Console
     {
         static void Main(string[] args)
         {
+
+
+
         }
     }
 }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\documents\\github\\gameproject\\viewproject\\library\\\u0438\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|solutionrelative:library\\\u0438\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\documents\\github\\gameproject\\viewproject\\library\\\u0438\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\gamehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|solutionrelative:library\\\u0438\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\gamehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\documents\\github\\gameproject\\viewproject\\library\\\u0438\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|solutionrelative:library\\\u0438\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7835330-C7A7-4397-A6E3-7B9DB637ADC2}|Library\\Library.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\library\\entity\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GameHelper.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\Library\\\u0418\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\GameHelper.cs",
               "RelativeDocumentMoniker": "Library\\\u0418\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\GameHelper.cs",
               "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\Library\\\u0418\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\GameHelper.cs",
               "RelativeToolTip": "Library\\\u0418\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\GameHelper.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwB8AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwB0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T11:53:50.2Z",
               "EditorCaption": ""
@@ -72,13 +72,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BattleSystem.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\Library\\\u0418\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\BattleSystem.cs",
               "RelativeDocumentMoniker": "Library\\\u0418\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\BattleSystem.cs",
               "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\Documents\\GitHub\\GameProject\\ViewProject\\Library\\\u0418\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\BattleSystem.cs",
               "RelativeToolTip": "Library\\\u0418\u0433\u0440\u043E\u0432\u044B\u0435 \u043C\u0435\u0445\u0430\u043D\u0438\u043A\u0438\\BattleSystem.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T10:17:04.558Z",
               "EditorCaption": ""
